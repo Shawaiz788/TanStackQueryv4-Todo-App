@@ -1,4 +1,8 @@
-# StorageApp (Todo CRUD) — README
+# StorageApp (Todo CRUD)
+
+
+https://github.com/user-attachments/assets/4dd41258-504b-487e-a311-2045b8ef0677
+
 
 ## Overview
 **StorageApp** is a simple mobile app built with **Expo + React Native + Expo Router** that lets you manage a list of **Todos**.
